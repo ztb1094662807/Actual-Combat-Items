@@ -1,0 +1,55 @@
+/* 小米闪购 */
+.phone-title h3{
+	height: 60px;
+	width: 200px;
+	font-size:22px;
+	font-weight:normal;
+	line-height: 60px;
+	color:#333;
+}
+.phone-arrow{
+	height: 25px;
+	margin-top:30px;
+}
+.phone-arrow span{
+	float: left;
+	width: 36px;
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+	border:1px solid #e0e0e0;
+}	
+.phone-arrow span:hover{
+	color:#ff6700;
+}
+.con-banner-img{
+    height: 120px;
+    margin: 32px 0;
+}
+/* 手机 */
+.phone-all span:first-child{
+    font-size:18px;
+    line-height: 60px;
+	vertical-align: middle;
+}
+.phone-all span:last-child{
+	font-size:22px;
+	vertical-align: middle;
+}
+.phone-all:hover{
+	color:#ff6700;
+}
+/* 家电 */
+.electric-all span{
+	font-weight: 18px;
+	line-height: 55px;
+	padding-bottom: 5px;
+	transition: 0.4s linear;
+}
+.electric-all span:first-child{
+	margin-right: 30px;
+}
+.electric-all span:hover{
+	color:#ff6700;
+	border-bottom: 2px solid #ff6700;
+}
